@@ -1,1 +1,1 @@
-web: gunicorn eKrishok.wsgi 
+web: gunicorn farmersAid.wsgi 
